@@ -13,10 +13,12 @@ It will replace human-translators soon :).
 
 ## Screenshots
 
-Here provide couple screenshots of your project. You can use a tool like https://monosnap.com/welcome or https://droplr.com to take a screenshot. Animated gifs are also welcome.
+
 #### EasyMeet Login
 ![EasyMeet Login](http://i.imgur.com/yRCgsPY.png)
+#### EasyMeet Select Language
 ![EasyMeet Select Language](http://i.imgur.com/LNgnDcA.png)
+#### EasyMeet Translating
 ![EasyMeet Translating](http://i.imgur.com/duPFSP6.png)
 
 ## APIs used
